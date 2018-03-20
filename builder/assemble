@@ -22,4 +22,4 @@ mv /tmp/src/themes /opt/app-root/downloads/themes
 mv /tmp/src/languages /opt/app-root/downloads/languages
 mv /tmp/src/configs /opt/app-root/downloads/configs
 
-#rm -rf /tmp/src
+rm -rf /tmp/src
